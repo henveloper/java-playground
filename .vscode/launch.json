@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MapExamples",
+            "request": "launch",
+            "mainClass": "syntax.MapExamples",
+            "projectName": "java-playground_7e47a9a2"
+        },
+        {
+            "type": "java",
             "name": "Launch GraphExamples",
             "request": "launch",
             "mainClass": "GraphExamples",
