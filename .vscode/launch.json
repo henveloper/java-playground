@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GraphExamples",
+            "request": "launch",
+            "mainClass": "syntax.GraphExamples",
+            "projectName": "java-playground_7e47a9a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackExamples",
+            "request": "launch",
+            "mainClass": "syntax.StackExamples",
+            "projectName": "java-playground_7e47a9a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Playground",
+            "request": "launch",
+            "mainClass": "Playground",
+            "projectName": "java-playground_7e47a9a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayExamples",
+            "request": "launch",
+            "mainClass": "syntax.ArrayExamples",
+            "projectName": "java-playground_7e47a9a2"
+        },
+        {
+            "type": "java",
             "name": "Launch MapExamples",
             "request": "launch",
             "mainClass": "syntax.MapExamples",
