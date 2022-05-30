@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch QueueExamples",
+            "request": "launch",
+            "mainClass": "QueueExamples",
+            "projectName": "java-playground_7e47a9a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackExamples",
+            "request": "launch",
+            "mainClass": "StackExamples",
+            "projectName": "java-playground_7e47a9a2"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayExamples",
             "request": "launch",
             "mainClass": "arrays.ArrayExamples",
