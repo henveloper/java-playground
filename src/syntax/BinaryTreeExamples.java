@@ -1,3 +1,4 @@
+package syntax;
 class Node {
     public char value;
     public Node left;
