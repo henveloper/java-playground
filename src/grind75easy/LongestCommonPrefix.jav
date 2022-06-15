@@ -1,4 +1,4 @@
-package grind75;
+package grind75easy;
 
 /*
  * Link: https://leetcode.com/problems/longest-common-prefix/
