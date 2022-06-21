@@ -1,8 +1,7 @@
 package grind75medium;
 
-/*
- * Link: 
+// link: 
+/**
  * Explaination: 
  * Complexity:
- * Alternative Solutions: 
  */
