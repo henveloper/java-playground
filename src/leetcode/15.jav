@@ -1,4 +1,4 @@
-package grind75medium;
+package leetcode;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

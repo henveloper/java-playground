@@ -1,4 +1,4 @@
-package grind75medium;
+package leetcode;
 
 // link: https://leetcode.com/problems/k-closest-points-to-origin/
 /**
